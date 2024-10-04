@@ -16,3 +16,7 @@ int main() {
     printf("The reverse number = %d",sum);
  return 0;
    }
+OUTPUT:
+Enter a number : 765
+The reverse number = 567
+
