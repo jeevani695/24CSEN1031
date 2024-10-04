@@ -21,3 +21,10 @@ printf("%d\n", r);
  
    return 0;
 }
+
+OUTPUT:
+ enter the integer value:345
+5
+4
+3
+
